@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Admin App Debug",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart",
+            "cwd": "restaurent_admin_app",
+            "flutterMode": "debug"
+        },
+        {
+            "name": "Admin App Release",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart",
+            "cwd": "restaurent_admin_app",
+            "flutterMode": "release"
+        },
+        {
+            "name": "restaurent_admin_app (Flutter 22021211RI)",
+            "program": "lib/main.dart",
+            "deviceId": "192.168.0.4:5555",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

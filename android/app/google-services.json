@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24097679071",
+    "project_id": "dhigrowth-hotal-managamenet",
+    "storage_bucket": "dhigrowth-hotal-managamenet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24097679071:android:91b645de2db801f4e4ab6a",
+        "android_client_info": {
+          "package_name": "com.example.restaurent_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3og3scTl24mN_V-rtywp10BHjcVCCiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
